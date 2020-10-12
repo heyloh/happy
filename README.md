@@ -13,7 +13,7 @@
  <a href="#-layout">Layout</a> • 
  <a href="#-executando-o-happy">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-autora">Autora</a> 
+ <a href="#-licenca">Licença</a> 
 </p>
 
 ---
@@ -146,7 +146,9 @@ As ferramentas usadas no desenvolvimento do projeto.
 
 ---
 
-## 📝 Autora
+## 📝 Licença
 
- <p>Feito com 💙 por Lohana Torres</p>
+Este projeto está sob licença [MIT](./LICENSE).
+
+<p>Feito com 💙 por Lohana Torres</p>
 
