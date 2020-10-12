@@ -13,7 +13,7 @@
  <a href="#-layout">Layout</a> • 
  <a href="#-executando-o-happy">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-autora">Autora</a> •
+ <a href="#-autora">Autora</a> 
 </p>
 
 ---
