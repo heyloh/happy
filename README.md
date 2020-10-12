@@ -108,7 +108,7 @@ Caso queira, vá para a seção do <a href="#-mapbox">Mapbox</a>.
 
 <br>
 
-Se tudo deu certo, o app deve estar disponível agora! 👩‍🔧
+Se tudo deu certo, o app deve estar disponível agora! 👩🏽‍🔧
 
 ---
 
