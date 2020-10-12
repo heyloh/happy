@@ -13,7 +13,8 @@
  <a href="#-layout">Layout</a> • 
  <a href="#-executando-o-happy">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-licenca">Licença</a> 
+ <a href="#-como-contribuir">Como contribuir</a> • 
+ <a href="#-licença">Licença</a> 
 </p>
 
 ---
@@ -143,6 +144,15 @@ As ferramentas usadas no desenvolvimento do projeto.
 
 #### Mobile:
 > Em breve...
+
+---
+
+## ⚙️ Como contribuir
+
+- Faça um fork desse repositório;
+- Crie uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
 
 ---
 
