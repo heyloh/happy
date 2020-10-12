@@ -133,7 +133,7 @@ As ferramentas usadas no desenvolvimento do projeto.
 #### Backend:
 > Em breve...
 
-#### Web
+#### Web:
 - Typescript
 - ReactJS ⚛️
 - React Router Dom
