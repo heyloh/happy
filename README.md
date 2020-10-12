@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" >
   <img alt="happy" title="happy" src="./assets/banner.png" />
 </h1>
 
