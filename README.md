@@ -96,7 +96,7 @@ $ npm start
 Caso você tenha uma conta no [mapbox](https://www.mapbox.com/), pode usar seu token para utilizar o mapa da aplicação. No entanto, se você não quiser 
 ter este trabalho, sem problemas, por padrão já tem um mapa configurado para uso.
 
-Caso queira, vá para a seção do <a href="#-mapbox">Mapbox</a>
+Caso queira, vá para a seção do <a href="#-mapbox">Mapbox</a>.
 
 ### 🌐 Rodando o Servidor
 
