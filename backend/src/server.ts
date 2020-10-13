@@ -1,13 +1,14 @@
 import express from 'express';
-import { response } from 'express';
+
+import './database/connection';
+
+import routes from './routes';
 
 const app =  express();
 
 app.use(express.json());
 
-app.get('/users', (request, response) => {
-  return response.json({ message: 'Hello NLW!' })
-});
+app.use(routes);
 
 app.listen(3333);
 
