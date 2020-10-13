@@ -129,7 +129,7 @@ $ npm install
 
 ```
 
-Rode a aplicação
+Rode o servidor
 
 ```bash
 
