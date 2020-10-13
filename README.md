@@ -12,8 +12,8 @@
  <a href="#-sobre">Sobre</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-executando-o-happy">Como executar</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-como-contribuir">Como contribuir</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#como-contribuir">Como contribuir</a> • 
  <a href="#-licença">Licença</a> 
 </p>
 
@@ -109,7 +109,7 @@ Caso queira, vá para a seção do <a href="#-mapbox">Mapbox</a>.
 
 <br>
 
-Se tudo deu certo, o app deve estar disponível agora! 👩🏽‍🔧
+[//]: <> (Se tudo deu certo, o app deve estar disponível agora! 👩🏽‍🔧)
 
 ---
 
@@ -127,7 +127,7 @@ Se você fez tudo corretamente, estás usando a API do mapbox com seu Token na p
 
 ---
 
-## 🛠️ Tecnologias
+<h2 id="tecnologias"> 🛠️ Tecnologias </h2>
 
 As ferramentas usadas no desenvolvimento do projeto.
 
@@ -147,7 +147,7 @@ As ferramentas usadas no desenvolvimento do projeto.
 
 ---
 
-## ⚙️ Como contribuir
+<h2 id="como-contribuir"> ⚙️ Como contribuir </h2>
 
 - Faça um fork desse repositório;
 - Crie uma branch com a sua feature: `git checkout -b minha-feature`;
