@@ -11,6 +11,7 @@
 <p align="center">
  <a href="#-sobre">Sobre</a> •
  <a href="#-layout">Layout</a> • 
+ <a href="#-rotas-do-backend">Rotas do Backend</a> • 
  <a href="#-executando-o-happy">Como executar</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#como-contribuir">Como contribuir</a> • 
@@ -42,10 +43,9 @@ Este projeto foi construído durante a terceira edição do evento Next Level We
 
 ## 🍃 Rotas do Backend
 
-GET - http://localhost:3333/orphanages --> Lista todos os orfanatos
-GET - http://localhost:3333/orphanages/:id --> Lista um orfanato
-
-POST - https://localhost:3333/orphanages --> Cadastra um novo orfanato
+GET - http://localhost:3333/orphanages --> Lista todos os orfanatos <br>
+GET - http://localhost:3333/orphanages/:id --> Lista um orfanato<br>
+POST - https://localhost:3333/orphanages --> Cadastra um novo orfanato<br>
 
 ---
 
