@@ -40,6 +40,15 @@ Este projeto foi construído durante a terceira edição do evento Next Level We
 
 ---
 
+## 🍃 Rotas do Backend
+
+GET - http://localhost:3333/orphanages --> Lista todos os orfanatos
+GET - http://localhost:3333/orphanages/:id --> Lista um orfanato
+
+POST - https://localhost:3333/orphanages --> Cadastra um novo orfanato
+
+---
+
 ## 💻 Executando o Happy
 
 ### Pré-requisitos
@@ -132,7 +141,15 @@ Se você fez tudo corretamente, estás usando a API do mapbox com seu Token na p
 As ferramentas usadas no desenvolvimento do projeto.
 
 #### Backend:
-> Em breve...
+ - Typescript
+ - NodeJS
+ - Express
+ - Express Async Errors
+ - TypeORM
+ - SQLite
+ - Multer
+ - Yup
+ - Cors
 
 #### Web:
 - Typescript
