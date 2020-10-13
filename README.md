@@ -110,7 +110,36 @@ Caso queira, vá para a seção do <a href="#-mapbox">Mapbox</a>.
 
 ### 🌐 Rodando o Servidor
 
-> Em breve...
+Entre na pasta
+
+```bash
+
+$ cd backend
+
+```
+Instale as dependências
+
+```bash
+
+$ yarn
+
+# ou, caso use npm
+
+$ npm install
+
+```
+
+Rode a aplicação
+
+```bash
+
+$ yarn dev
+
+# ou, caso use npm
+
+$ npm dev
+
+```
 
 ### 📱 Rodando o Happy mobile 
 
