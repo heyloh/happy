@@ -7,7 +7,6 @@ app.use(express.json());
 
 app.get('/users', (request, response) => {
   return response.json({ message: 'Hello NLW!' })
-  
 });
 
 app.listen(3333);
