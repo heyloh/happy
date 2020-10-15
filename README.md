@@ -34,9 +34,17 @@ Este projeto foi construído durante a terceira edição do evento Next Level We
 ### Web
 
 <p align="center">
-  <img alt="Happy Web" title="Happy Web" src="./assets/landing.png" width="1000px">
+  <img alt="Happy Web" title="Happy Web" src="./assets/landing.png" width="400px">
 
-  <img alt="Happy Web" title="Happy Web" src="./assets/orph-map.png" width="1000px">
+  <img alt="Happy Web" title="Happy Web" src="./assets/orph-map.png" width="400px">
+  
+  <img alt="Happy Web" title="Happy Web" src="./assets/orph-details-1.png" width="400px">
+  
+  <img alt="Happy Web" title="Happy Web" src="./assets/orph-details-2.png" width="400px">
+  
+  <img alt="Happy Web" title="Happy Web" src="./assets/create-orph-1.png" width="400px">
+  
+  <img alt="Happy Web" title="Happy Web" src="./assets/create-orph-2.png" width="400px">
 </p>
 
 ---
@@ -187,6 +195,7 @@ As ferramentas usadas no desenvolvimento do projeto.
 - React Icons
 - Leaflet 🍃
 - API do Mapbox 🗺️
+- Axios
 
 #### Mobile:
 > Em breve...
