@@ -45,7 +45,7 @@ Este projeto foi construído durante a terceira edição do evento Next Level We
 
 GET - http://localhost:3333/orphanages --> Lista todos os orfanatos <br>
 GET - http://localhost:3333/orphanages/:id --> Lista um orfanato<br>
-POST - https://localhost:3333/orphanages --> Cadastra um novo orfanato<br>
+POST - http://localhost:3333/orphanages --> Cadastra um novo orfanato<br>
 
 ---
 
