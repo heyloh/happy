@@ -8,13 +8,14 @@
 	🚧  Em construção...  🚧
 </h4>
 
-<p align="center">
+<p align="center"> • 
  <a href="#-sobre">Sobre</a> •
  <a href="#-layout">Layout</a> • 
+ <a href="#-rotas-do-backend">Rotas do Backend</a> • 
  <a href="#-executando-o-happy">Como executar</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#como-contribuir">Como contribuir</a> • 
- <a href="#-licença">Licença</a> 
+ <a href="#-licença">Licença</a> •
 </p>
 
 ---
@@ -37,6 +38,14 @@ Este projeto foi construído durante a terceira edição do evento Next Level We
 
   <img alt="Happy Web" title="Happy Web" src="./assets/orph-map.png" width="1000px">
 </p>
+
+---
+
+## 🍃 Rotas do Backend
+
+GET - http://localhost:3333/orphanages --> Lista todos os orfanatos <br>
+GET - http://localhost:3333/orphanages/:id --> Lista um orfanato<br>
+POST - http://localhost:3333/orphanages --> Cadastra um novo orfanato<br>
 
 ---
 
@@ -101,7 +110,36 @@ Caso queira, vá para a seção do <a href="#-mapbox">Mapbox</a>.
 
 ### 🌐 Rodando o Servidor
 
-> Em breve...
+Entre na pasta
+
+```bash
+
+$ cd backend
+
+```
+Instale as dependências
+
+```bash
+
+$ yarn
+
+# ou, caso use npm
+
+$ npm install
+
+```
+
+Rode o servidor
+
+```bash
+
+$ yarn dev
+
+# ou, caso use npm
+
+$ npm dev
+
+```
 
 ### 📱 Rodando o Happy mobile 
 
@@ -132,7 +170,15 @@ Se você fez tudo corretamente, estás usando a API do mapbox com seu Token na p
 As ferramentas usadas no desenvolvimento do projeto.
 
 #### Backend:
-> Em breve...
+ - Typescript
+ - NodeJS
+ - Express
+ - Express Async Errors
+ - TypeORM
+ - SQLite
+ - Multer
+ - Yup
+ - Cors
 
 #### Web:
 - Typescript
