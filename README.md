@@ -55,7 +55,8 @@ Este projeto foi construído durante a terceira edição do evento Next Level We
   <img alt="Happy Mobile" title="Happy Mobile" src="./assets/orph-map-mobile-1.png" width="300px">
   
   <img alt="Happy Mobile" title="Happy Mobile" src="./assets/select-local.png" width="300px">
-  
+</p>
+<p align="center">
   <img alt="Happy Mobile" title="Happy Mobile" src="./assets/create-orph.png" width="300px">
   
   <img alt="Happy Mobile" title="Happy Mobile" src="./assets/orph-details.png" width="300px">
