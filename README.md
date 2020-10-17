@@ -5,7 +5,7 @@
 <p align="center">Leve felicidade para o mundo, visite orfanatos e mude o dia de muitas crianças. NLW#3</p>
 
 <h4 align="center"> 
-	🚧  Em construção...  🚧
+	Versão 1.0 🚀
 </h4>
 
 <p align="center"> • 
