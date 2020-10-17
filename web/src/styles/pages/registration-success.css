@@ -1,0 +1,62 @@
+#page-registration-success {
+  width: 100vw;
+  height: 100vh;
+  background-color: #37C77F;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#page-registration-success .success-content-wrapper {
+  position: relative;
+
+  width: 100%;
+  max-width: 1100px;
+
+  height: 100%;
+  max-height: 500px;
+
+  display: flex;
+  flex-direction: column;
+
+  background: url('../../images/registration-success.svg') no-repeat 80% center;
+}
+
+#page-registration-success .success-content-wrapper main {
+  max-width: 400px;
+}
+
+#page-registration-success .success-content-wrapper main h1 {
+  margin-top: 60px;
+  font-size: 80px;
+  font-weight: 900;
+  text-align: center;
+}
+
+#page-registration-success .success-content-wrapper main p {
+  margin-top: 32px;
+  font-size: 24px;
+  line-height: 34px;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.success-content-wrapper .success-enter-app {
+  width: 243px;
+  height: 64px;
+  background: #31B272;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.2s;
+  font-weight: 800;
+  color: #FFF;
+  text-decoration: none;
+  margin: 0 auto;
+}
+
+
+.success-content-wrapper .success-enter-app:hover {
+  background-color: #3BD689;
+}
