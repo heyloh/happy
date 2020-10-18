@@ -8,9 +8,14 @@
 	Versão 1.0 🚀
 </h4>
 
+<h4 align="center"> 
+	🚧 Versão 2.0 em desenvolvimento 🚧
+</h4>
+
 <p align="center"> • 
  <a href="#-sobre">Sobre</a> •
- <a href="#-layout">Layout</a> • 
+ <a href="#-layout">Layout</a> •
+ <a href="#features-implementadas-da-versão">Features versão 2.0</a> •
  <a href="#-rotas-do-backend">Rotas do Backend</a> • 
  <a href="#-executando-o-happy">Como executar</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
@@ -64,7 +69,7 @@ Este projeto foi construído durante a terceira edição do evento Next Level We
 
 ---
 
-### Features implementadas da Versão 2.0
+<h2 id="features-implementadas-da-versão"> 🚧 Features implementadas da Versão 2.0 </h2>
 
 #### Web
 
