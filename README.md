@@ -69,7 +69,7 @@ Este projeto foi construído durante a terceira edição do evento Next Level We
 #### Web
 
 <p align="center">
-  <img alt="Happy Mobile" title="Happy Web" src="./assets/success-regis.png" width="400px">
+  <img alt="Happy Mobile" title="Happy Web" src="./assets/success-regis.png" width="600px">
 </p>
 
 #### Mobile
