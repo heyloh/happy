@@ -64,6 +64,20 @@ Este projeto foi construído durante a terceira edição do evento Next Level We
 
 ---
 
+### Features da Versão 2.0
+
+<p align="center">
+  <img alt="Happy Mobile" title="Happy Web" src="./assets/success-regis.png" width="400px">
+</p>
+
+<p align="center">
+  <img alt="Happy Mobile" title="Happy Mobile" src="./assets/splash-screen-mobile.png" width="300px"> 
+  <img alt="Happy Mobile" title="Happy Mobile" src="./assets/success-regis-mobile.png" width="300px">
+</p>
+
+
+---
+
 ## 🍃 Rotas do Backend
 
 GET - http://localhost:3333/orphanages --> Lista todos os orfanatos <br>
