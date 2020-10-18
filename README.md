@@ -5,7 +5,7 @@
 <p align="center">Leve felicidade para o mundo, visite orfanatos e mude o dia de muitas crianças. NLW#3</p>
 
 <h4 align="center"> 
-	🚧  Em construção...  🚧
+	Versão 1.0 🚀
 </h4>
 
 <p align="center"> • 
@@ -53,6 +53,13 @@ Este projeto foi construído durante a terceira edição do evento Next Level We
   <img alt="Happy Mobile" title="Happy Mobile" src="./assets/splash-screen-mobile.png" width="300px">
   
   <img alt="Happy Mobile" title="Happy Mobile" src="./assets/orph-map-mobile-1.png" width="300px">
+  
+  <img alt="Happy Mobile" title="Happy Mobile" src="./assets/select-local.png" width="300px">
+</p>
+<p align="center">
+  <img alt="Happy Mobile" title="Happy Mobile" src="./assets/create-orph.png" width="300px">
+  
+  <img alt="Happy Mobile" title="Happy Mobile" src="./assets/orph-details.png" width="300px">
 </p>
 
 ---
@@ -71,9 +78,7 @@ POST - http://localhost:3333/orphanages --> Cadastra um novo orfanato<br>
 
 É necessário ter instalado na sua máquina para execução desse projeto:
 - NodeJS
-- Gerenciador de pacotes (Npm ou Yarn) 
-
-> Em breve mais detalhes...
+- Gerenciador de pacotes (Npm ou Yarn)
 
 ### ♊ Clonando o Repositório
 
