@@ -47,7 +47,7 @@ export default function OrphanageData() {
 
     await api.post('orphanages', data);
 
-    navigation.navigate('OrphanagesMap');
+    navigation.navigate('SuccessRegistration');
   }
 
   async function handleSelectImages() {

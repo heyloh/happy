@@ -5,9 +5,11 @@ import { createStackNavigator } from '@react-navigation/stack';
 
 const {Navigator, Screen} = createStackNavigator();
 
+
 import OrphanagesMap from './pages/OrphanagesMap';
 import OrphanageDetails from './pages/OrphanageDetails';
 
+import SuccessRegistration from './pages/CreateOrphanage/SuccessRegistration';
 import SelectMapPosition from './pages/CreateOrphanage/SelectMapPosition';
 import OrphanageData from './pages/CreateOrphanage/OrphanageData';
 import Header from './components/Header';
@@ -51,6 +53,11 @@ export default function Routes(){
             headerShown: true,
             header: () => <Header title="Informe os dados" />
           }}
+        />
+
+        <Screen 
+          name="SuccessRegistration" 
+          component={SuccessRegistration} 
         />
       </Navigator>
     </NavigationContainer>

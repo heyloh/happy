@@ -12,7 +12,7 @@ export default function App() {
     Nunito_800ExtraBold,
   });
 
-  if(!fontsLoaded) {
+  if (!fontsLoaded) {
     return null;
   }
 
