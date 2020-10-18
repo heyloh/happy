@@ -64,11 +64,15 @@ Este projeto foi construído durante a terceira edição do evento Next Level We
 
 ---
 
-### Features da Versão 2.0
+### Features implementadas da Versão 2.0
+
+#### Web
 
 <p align="center">
   <img alt="Happy Mobile" title="Happy Web" src="./assets/success-regis.png" width="400px">
 </p>
+
+#### Mobile
 
 <p align="center">
   <img alt="Happy Mobile" title="Happy Mobile" src="./assets/splash-screen-mobile.png" width="300px"> 
