@@ -12,7 +12,7 @@
 	🚧 Versão 2.0 em desenvolvimento 🚧
 </h4>
 
-<p align="center"> • 
+<p align="center">
  <a href="#-sobre">Sobre</a> •
  <a href="#-layout">Layout</a> •
  <a href="#features-implementadas-da-versão">Features versão 2.0</a> •
@@ -20,7 +20,7 @@
  <a href="#-executando-o-happy">Como executar</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#como-contribuir">Como contribuir</a> • 
- <a href="#-licença">Licença</a> •
+ <a href="#-licença">Licença</a>
 </p>
 
 ---
